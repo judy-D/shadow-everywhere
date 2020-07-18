@@ -1,0 +1,2 @@
+# shadowizard
+npm first package
