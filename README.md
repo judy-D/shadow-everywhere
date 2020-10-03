@@ -1,6 +1,5 @@
-# What is this?
 
-Get perfect shadow every time for non-designers.
+Get perfect shadow every time.
 
 # Installation
 
